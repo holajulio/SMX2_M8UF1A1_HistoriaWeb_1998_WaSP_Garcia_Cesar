@@ -12,4 +12,4 @@ El proyecto WaSP abogó por la adopción de los estandares web, presionando a lo
 
 |__Jeffrey Zeldman__|__Eric Meyer__|__Molly Holzschlag__|
 |:-------------:|:-------------:|:-------------:|
-|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/jeffrey-zeldman.jpg "[Diseñador web](https://es.wikipedia.org/wiki/Jeffrey_Zeldman)")|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/Eric-meyer.jpg "[Desarollador web](https://es.wikipedia.org/wiki/Eric_Meyer)")|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/Molly-Holzschlag.jpg "[Desarolladora web](https://en.wikipedia.org/wiki/Molly_Holzschlag)")|
+|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/jeffrey-zeldman.jpg "Diseñador web")|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/Eric-meyer.jpg "Desarollador web")|![imagen](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_WaSP_Garcia_Cesar/blob/main/Molly-Holzschlag.jpg "Desarolladora web")|
